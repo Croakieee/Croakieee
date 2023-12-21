@@ -1,6 +1,49 @@
 <h1 align="center">Hi 👋, I'm Miro</h1>
 <h3 align="center">Ethical hacker from Georgia with expertise in cybersecurity.</h3>
 
+<h1 align="center">Hi 👋, I'm Miro</h1>
+<h3 align="center">Ethical hacker from Georgia with expertise in cybersecurity.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=croakieee&label=Profile%20views&color=0e75b6&style=flat" alt="croakieee" /> </p>
+
+<!-- Inserted About Me Section -->
+<p align="center">
+  I am an ethical hacker and backend developer with a diverse skill set encompassing a wide range of technologies, programming languages, and development tools. In my toolkit:
+</p>
+
+<details align="left">
+  <summary><strong>Languages and Tools:</strong></summary>
+
+  - **Python:**
+    - Developed a web application using Django to manage tasks and projects.
+
+  - **C++:**
+    - Created an application using C++ and OpenGL for visualizing three-dimensional models.
+
+  - **C#:**
+    - Developed a game using Unity and C# for the Windows platform.
+
+  - **Java:**
+    - Implemented a multitasking application in Java to optimize processes in large datasets.
+
+  - **Ruby:**
+    - Built a web service using Ruby on Rails for exchanging information between users.
+
+  - **JavaScript:**
+    - Developed interactive web pages using React and JavaScript.
+
+  - **HTML5/CSS3:**
+    - Designed and styled responsive web interfaces to enhance the user experience.
+
+  - **Node.js:**
+    - Created a server in Node.js to handle requests and interact with a database.
+
+  - **MySQL:**
+    - Optimized a MySQL database to improve query performance in a web application.
+
+  - **Unity:**
+    - Developed a simple game using Unity and wrote scripts in C#.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=croakieee&label=Profile%20views&color=0e75b6&style=flat" alt="croakieee" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=croakieee" alt="croakieee" /></a> </p>
