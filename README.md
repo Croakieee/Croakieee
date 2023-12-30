@@ -30,35 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=croakieee&show_icons=true&locale=en" alt="croakieee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=croakieee&" alt="croakieee" /></p>
-
-  <summary><strong>Languages and Tools:</strong></summary>
-
-  - **Python:**
-    - Developed a web application using Django to manage tasks and projects.
-
-  - **C++:**
-    - Created an application using C++ and OpenGL for visualizing three-dimensional models.
-
-  - **C#:**
-    - Developed a game using Unity and C# for the Windows platform.
-
-  - **Java:**
-    - Implemented a multitasking application in Java to optimize processes in large datasets.
-
-  - **Ruby:**
-    - Built a web service using Ruby on Rails for exchanging information between users.
-
-  - **JavaScript:**
-    - Developed interactive web pages using React and JavaScript.
-
-  - **HTML5/CSS3:**
-    - Designed and styled responsive web interfaces to enhance the user experience.
-
-  - **Node.js:**
-    - Created a server in Node.js to handle requests and interact with a database.
-
-  - **MySQL:**
-    - Optimized a MySQL database to improve query performance in a web application.
-
-  - **Unity:**
-    - Developed a simple game using Unity and wrote scripts in C#.
