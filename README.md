@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miro</h1>
-<h3 align="center">Ethical hacker from Georgia with expertise in cybersecurity.</h3>
+<h3 align="center">Ethical hacker from Georgia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=croakieee&label=Profile%20views&color=0e75b6&style=flat" alt="croakieee" /> </p>
 
