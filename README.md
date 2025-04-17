@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Miro</h1>
-<h3 align="center">Just Dude with Mac on Kali Linux.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=croakieee&label=Profile%20views&color=0e75b6&style=flat" alt="croakieee" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=croakieee" alt="croakieee" /></a> </p>
