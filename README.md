@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=croakieee" alt="croakieee" /></a> </p>
 
-- 🔭 I’m currently working on **nothing =)**
+- 🔭 I’m currently working on gambling games 
 
 - 📫 How to reach me [discordbbottest@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=discordbbottest@gmail.com)
 
