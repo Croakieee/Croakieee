@@ -6,6 +6,8 @@
 
 - 📫 How to reach me [discordbbottest@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=discordbbottest@gmail.com)
 
+https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/justdudebruh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="justdudebruh" height="30" width="40" /></a>
