@@ -6,7 +6,8 @@
 
 - 📫 How to reach me [discordbbottest@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=discordbbottest@gmail.com)
 
-https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
