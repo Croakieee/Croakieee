@@ -7,4 +7,4 @@
 
 <h3 align="left">Connect with me:</h3>
 
-![Discord](https://img.shields.io/badge/Discord-_6_9_69_-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-croakie__-5865F2?style=for-the-badge&logo=discord&logoColor=white)
