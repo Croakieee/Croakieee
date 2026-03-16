@@ -3,6 +3,7 @@
 - ‼️ Disclaimer: This account was created solely for experimenting with code and testing purposes. For communication or any inquiries, please proceed to the main account.
 - 📫 How to reach me [discordbbottest@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=discordbbottest@gmail.com)
 
+![](programming-computer-frog.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
