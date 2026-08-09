@@ -8,3 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 
 [![Discord](https://img.shields.io/badge/Discord-croakie__-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/696987672039915541)
+
+💬 Telegram: @Zer0_Byte
+
+
